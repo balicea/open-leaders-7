@@ -10,8 +10,8 @@ A) Pick 1-3 project milestones
 B) [Mozilla Open Canvas](http://mzl.la/open-canvas)
 
 <p align="center">
-  <img width="529" height="297" src="https://github.com/balicea/open-leaders-7/blob/master/Figures/open-canvas-for-courses.png"><BR>
-Click to enlarge.
+  <img width="794" height="446" src="https://github.com/balicea/open-leaders-7/blob/master/Figures/open-canvas-for-courses.png"><BR>
+Click for source image.
 </p>
 
 1) [SPM Roadmap](https://wiki.mozilla.org/Roadmaps)
