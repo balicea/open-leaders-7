@@ -14,6 +14,12 @@ B) [Mozilla Open Canvas](http://mzl.la/open-canvas)
 Click for source image.
 </p>
 
-1) [SPM Roadmap](https://wiki.mozilla.org/Roadmaps)
+C) [SPM Roadmap](https://wiki.mozilla.org/Roadmaps)
 
-2) [Paper Badger](https://github.com/mozillascience/PaperBadger/blob/master/CONTRIBUTING.md)
+Plans for January-June 2019: TBA  
+
+
+Plans for July-December 2019: TBA  
+
+
+D) [Paper Badger](https://github.com/mozillascience/PaperBadger/blob/master/CONTRIBUTING.md)
