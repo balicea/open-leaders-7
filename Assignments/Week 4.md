@@ -23,3 +23,5 @@ Plans for July-December 2019: TBA
 
 
 D) [Paper Badger](https://github.com/mozillascience/PaperBadger/blob/master/CONTRIBUTING.md)
+
+1) [Contribution Guidelines](https://github.com/devoworm/OW-DW-Education/blob/master/contribution-guidelines.md)
