@@ -1,3 +1,9 @@
+Make comments and post link to finished Open Canvas:
+
+Open Canvas  [sharable link](https://docs.google.com/presentation/d/1k7WaT7LGJHFLyBNmOt1_KP9phQnOFXcK1Ppfzuqi8yM/edit?usp=sharing) 
+
+Issue #15  [project overview links and comments here](https://github.com/MozillaFestival/open-leaders-7/issues/15)
+
 A) Pick 1-3 project milestones
 
 1) create a [Github repo](https://github.com/devoworm/OW-DW-Education) and [inventory of current assets](https://github.com/devoworm/OW-DW-Education/tree/master/General-Ed-Resources).
